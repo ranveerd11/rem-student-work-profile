@@ -9,6 +9,14 @@ export interface Assignment {
 
 export const assignments: Assignment[] = [
   {
+    id: '1',
+    title: 'Assignment 1',
+    description: 'Foundational concepts in Renewable Energy Management and global energy transition trends.',
+    type: 'pdf',
+    url: '/assignments/assignment_1.pdf',
+    date: 'January 2026'
+  },
+  {
     id: '2',
     title: 'Assignment 2',
     description: 'Energy Management and Audit Principles - Part A',
