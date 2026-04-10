@@ -49,6 +49,14 @@ export const assignments: Assignment[] = [
     date: 'April 2026'
   },
   {
+    id: '7',
+    title: 'Assignment 7',
+    description: 'Comprehensive study on Bio-energy conversion technologies and Waste-to-Energy management.',
+    type: 'pdf',
+    url: '/assignments/assignment_7.pdf',
+    date: 'April 2026'
+  },
+  {
     id: '8',
     title: 'Assignment 8: Microgrid Research Paper',
     description: 'Research paper on Renewable Energy Microgrid Architecture and Energy Mix optimization.',
