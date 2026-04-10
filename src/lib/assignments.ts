@@ -87,5 +87,13 @@ export const assignments: Assignment[] = [
     type: 'pdf',
     url: '/assignments/Assignment9_Flashcards.pdf',
     date: 'April 2026'
+  },
+  {
+    id: '10',
+    title: 'Assignment 10: REM Work Portfolio',
+    description: 'A comprehensive, high-performance web portfolio showcasing all course assignments, built with Next.js 16 and Tailwind CSS v4.',
+    type: 'link',
+    url: 'https://rem-student-work-profile.vercel.app/',
+    date: 'April 2026'
   }
 ];
